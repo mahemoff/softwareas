@@ -14,5 +14,4 @@ More recently, he created [Player FM](https://player.fm), a cross-platform, clou
 
 > Those who cannot remember the past are condemned to repeat it. <cite>George Santayana</cite>
 
-*Thank You for reading!*
-
+<i>This blog is powered by Jekyll. There's an [RSS feed](/feed) available. Thank You for reading!</i>
