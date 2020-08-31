@@ -1,0 +1,73 @@
+# Site setings
+name: 'Software As She''s Developed'
+description: 'Technology, Programming, Startups, Trendspotting by Michael Mahemoff'
+meta_description: 'Technology, Programming, Startups, Trendspotting by Michael Mahemoff'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: 
+production_url: https://softwareas.com/
+#disqus: 'justgoodthemes'
+#mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: UA-9613483-1
+
+
+# Author
+author:
+  name: 'Michael Mahemoff'
+  image: 'authorimage.jpg'
+  greetings: 'Greetings!'
+  description: "I''m Michael Mahemoff. I'm a full-stack product maker. You may know me from Ajax Design Patterns, Player FM app, or my time with TiddlyWiki at BT and Google Chrome at Google. It’s nice to meet you."
+  bio: 'Michael is a full-stack product maker. Curious about programming, tech, startups, and future trends.'
+
+# Contact form setings
+email: michael@mahemoff.com
+contact_page_description: "Get in touch! My inbox is open. Feel free to send any private feedback on blog posts or anything else via the form below."
+thankyou_page_description: "Thanks for your message. Speak to you soon!"
+
+# Social links
+twitter: 'mahemoff'
+github: 'mahemoff'
+linkedin: 'mahemoff'
+producthunt: '@mahemoff'
+#hackernews: 'mahemoff'
+#stackoverflow: 'mahemoff'
+#facebook: 'username'
+#codepen: 'mahemoff'
+#dribbble: 'username'
+#medium: '@username'
+#instagram: 'username'
+#pinterest: 'username'
+
+# Navigation
+navigation:
+  #- text: About
+  #url: /about/
+  #- text: Style Guide
+  #url: /style-guide/
+  - text: Contact Me
+    url: /contact/
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+# markdown: kramdown
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
