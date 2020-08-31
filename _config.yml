@@ -44,9 +44,9 @@ producthunt: '@mahemoff'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Contact
-    url: /contact/
+    url: /contact
   #- text: Style Guide
   #url: /style-guide/
 
