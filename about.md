@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/mmtalk2.jpg
 ---
 
-Hi, I'm Michael Mahemoff, a full-stack product maker. Curious about programming, tech, startups, and future trends. I've spent most of my working life in London, and an early digital nomad.
+Michael Mahemoff is a full-stack product maker. Curious about programming, tech, startups, and future trends. This is his blog, started in the early 2000s. These days, he's more likely to be found [shouting at the cloud on Twitter](https://twitter.com/mahemoff).
 
 Michael grew up in Melbourne and studied software engineering and psychology at the University of Melbourne, followed by a PhD on UX design, which focused on design patterns and other forms of knowledge reuse. [Papers available here](http://mahemoff.com/). He also authored Ajax Design Patterns for O'Reilly. During his postgraduate studies, he co-founded MedSeed, a medical technology company acquired by eHealthCare Asia.
 
