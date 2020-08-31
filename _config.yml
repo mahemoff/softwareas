@@ -41,12 +41,12 @@ producthunt: '@mahemoff'
 #instagram: 'username'
 #pinterest: 'username'
 
-# Navigation
+# Navigation (only shows what is here)
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Contact
-    url: /contact/
+    url: /contact
   #- text: Style Guide
   #url: /style-guide/
 
@@ -72,3 +72,6 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+feed:
+  path: feed

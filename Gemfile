@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem "jekyll-commonmark"
   gem "jekyll-include-cache"
+  gem "jekyll-feed"
   gem "github-pages", "207"
 end
 
