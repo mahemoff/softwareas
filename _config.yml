@@ -41,7 +41,7 @@ producthunt: '@mahemoff'
 #instagram: 'username'
 #pinterest: 'username'
 
-# Navigation
+# Navigation (only shows what is here)
 navigation:
   - text: About
     url: /about
