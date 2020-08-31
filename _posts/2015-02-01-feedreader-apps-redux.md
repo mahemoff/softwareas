@@ -35,4 +35,4 @@ This is what I ended up using. The web client is very good, works offline, and u
 
 The Android app isn't going to knock your socks off but it does everything you'd expect it to very well. While I'd prefer a river view, it supports swiping right to move to next post. This can of course be preferable at times, as a way to skim posts. I suppose I don't need to skim much as my feedreading 2.0&nbsp; regimen consists of following a small number of individuals' feeds, such that I should only be seeing 5-10 posts a day.
 
-<a href="http://softwareas.com/wp-content/uploads/2015/02/wpid-wp-1422811215821.gif"><img title="wp-1422811215821" class="alignnone size-full"  alt="image" src="http://softwareas.com/wp-content/uploads/2015/02/wpid-wp-1422811215821.gif" /></a>
+<a href="http://softwareas.com/wp-content/uploads/2015/02/wpid-wp-1422811215821.gif"><img title="wp-1422811215821" class="alignnone size-full"  alt="image" src="https://i.imgur.com/XmOpjnm.gif" /></a>

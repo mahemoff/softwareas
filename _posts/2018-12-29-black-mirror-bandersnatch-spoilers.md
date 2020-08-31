@@ -32,4 +32,4 @@ A few technical observations:
     <li>I also noticed the episode isn't possible to download, and at one point saw it buffering after making a decision (on a bad network). The app probably pre-emptively downloads a minute or two of both decision paths so it can continue seamlessly after each decision. It would also probably hang on to the unchosen path in the event it's needed later. Overall, there are some very interesting computer science and network topography problems for anyone wanting to optimise a system like this.</li>
 </ul>
 
-<a href="https://www.netflix.com/title/80988062"><img class="alignnone size-medium wp-image-2285" src="http://softwareas.com/wp-content/uploads/2018/12/netflix-bandersnatch-300x169.jpg" alt="Netflix Bandersnatch" width="400" height="240" /></a>
+<a href="https://www.netflix.com/title/80988062"><img class="alignnone size-medium wp-image-2285" src="https://i.imgur.com/4r2tpMV.jpg" alt="Netflix Bandersnatch" width="400" height="240" /></a>

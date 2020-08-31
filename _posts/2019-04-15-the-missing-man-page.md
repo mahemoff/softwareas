@@ -23,7 +23,7 @@ Compare that to the incentive to create a gret web reference, where a company li
 
 In fact, this is a problem with all official docs. Even tools which do have viable commercial models still have poor online documentation in many cases. Take a look at MySQL's documentation on creating a new user. User management is one of the main pain point of friction in the system, and this is their official documentation for it. You land from Google and you're greeted by this giant complicated regex, wrapped in a jungle of navigation links! Is it any wonder DigitalOcean pays a writer to [make a sane third-party reference guide](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql) in an SEO play that could end up outranking the official doc? 
 
-<a href="http://softwareas.com/wp-content/uploads/2019/04/Selection_755.png"><img src="http://softwareas.com/wp-content/uploads/2019/04/Selection_755-300x193.png" alt="" width="300" height="193" class="alignnone size-medium wp-image-2297" /></a>
+<a href="http://softwareas.com/wp-content/uploads/2019/04/Selection_755.png"><img src="https://i.imgur.com/2NYQkrO.png" alt="" width="300" height="193" class="alignnone size-medium wp-image-2297" /></a>
 
 This illustrates that the people creating the tool aren't necessarily the people best placed to document it? That doesn't have to be the case of course. These days, companies understand the value of developer experience and some, like Stripe, produce [outstanding docs](https://stripe.com/docs). However, that doesn't translate to your run-of-the-mill Unix staple.
 
@@ -31,7 +31,7 @@ This is where tools like tldr and cheat can make a difference. They are separate
 
 My biggest gripe with the format of man pages is that they try to act too much like textbooks, which is entirely inappropriate when you are trying to get some quick info to solve a problem. Again, it's an artifact of a time before the web, where the most convenient way to ship around an essay about the tool was ship it with the tool. Here, for example, is what I see with `man find`.
 
-<a href="http://softwareas.com/wp-content/uploads/2019/04/Selection_756.png"><img src="http://softwareas.com/wp-content/uploads/2019/04/Selection_756-269x300.png" alt="" width="269" height="300" class="alignnone size-medium wp-image-2298" /></a>
+<a href="http://softwareas.com/wp-content/uploads/2019/04/Selection_756.png"><img src="https://i.imgur.com/doav1Pe.png" alt="" width="269" height="300" class="alignnone size-medium wp-image-2298" /></a>
 
 You'd never see this level of caveats and hand-waving in a Digital Ocean sponsored post on how to find files on your file system. At the least, it would be buried at the bottom of the doc, with the important stuff, like a simple annotated example first.
 
