@@ -260,6 +260,7 @@ DEPENDENCIES
   github-pages (= 207)
   jekyll (>= 3.9)
   jekyll-commonmark
+  jekyll-feed
   jekyll-include-cache
   jekyll-paginate
   jekyll-seo-tag
