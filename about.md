@@ -1,15 +1,18 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: /assets/images/pages/mmtalk2.jpg
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+Hi, I'm Michael Mahemoff, a full-stack product maker. Curious about programming, tech, startups, and future trends. I've spent most of my working life in London, and an early digital nomad.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+Michael grew up in Melbourne and studied software engineering and psychology at the University of Melbourne, followed by a PhD on UX design, which focused on design patterns and other forms of knowledge reuse. [Papers available here](http://mahemoff.com/). He also authored Ajax Design Patterns for O'Reilly. During his postgraduate studies, he co-founded MedSeed, a medical technology company acquired by eHealthCare Asia.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Michael subsequently worked in development and UX design on front-end trading systems in UK banks, followed by a role at BT, where he helped the company build out APIs and develop its open source strategy. He then worked at Google as a staff-level developer advocate. It was at that time he coined the term [Developer Experience](https://twitter.com/mahemoff/status/1947230411948032), now a widespread industry phenomenon.
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+More recently, he created [Player FM](https://player.fm), a cross-platform, cloud-based, podcasting app with over 5 million installs, a 4.5 star rating from over 80,000 users, and website in Alexa top 5000. There, he led product design and scaled the Rails website and API to handle hundreds of requests per second at peak. Bootstrapped and profitable, it was acquired by Maple Media in 2020.
+
+> Those who cannot remember the past are condemned to repeat it. <cite>George Santayana</cite>
 
 *Thank You for reading!*
+

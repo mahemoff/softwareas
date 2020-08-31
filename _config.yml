@@ -1,5 +1,6 @@
 # Site setings
 name: 'Software As She''s Developed'
+title: 'Software As She''s Developed'
 description: 'Technology, Programming, Startups, Trendspotting by Michael Mahemoff'
 meta_description: 'Technology, Programming, Startups, Trendspotting by Michael Mahemoff'
 logo: 'assets/images/logo.png'
@@ -18,7 +19,7 @@ author:
   name: 'Michael Mahemoff'
   image: 'authorimage.jpg'
   greetings: 'Greetings!'
-  description: "I''m Michael Mahemoff. I'm a full-stack product maker. You may know me from Ajax Design Patterns, Player FM app, or my time with TiddlyWiki at BT and Google Chrome at Google. It’s nice to meet you."
+  description: "I''m Michael Mahemoff. a full-stack product maker. Curious about programming, tech, startups, and future trends."
   bio: 'Michael is a full-stack product maker. Curious about programming, tech, startups, and future trends.'
 
 # Contact form setings
@@ -42,12 +43,12 @@ producthunt: '@mahemoff'
 
 # Navigation
 navigation:
-  #- text: About
-  #url: /about/
+  - text: About
+    url: /about/
+  - text: Contact
+    url: /contact/
   #- text: Style Guide
   #url: /style-guide/
-  - text: Contact Me
-    url: /contact/
 
 # Required Plugins
 plugins_dir:
